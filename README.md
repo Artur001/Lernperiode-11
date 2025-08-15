@@ -9,3 +9,10 @@ zu verstehen.
 
 # 15.08.2025
 
+Heute werde ich meine ersten Schritte machen und mich in Python sowie auch C++ vertiefen.
+
+- [ ] Python script erstellen; Es soll alle temporäre Dateien löschen (temp, %temp% und prefetch) und es soll via Administratorenrechte laufen.
+- [ ] C++ Tutorials auf Youtube schauen und eine super einfache .exe mit einer super einfachen .dll erstellen. Die Funktion werde ich noch wählen, wenn ich die .exe erstellt habe.
+
+
+ Reflexion:
