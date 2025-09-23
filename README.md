@@ -1,63 +1,82 @@
 # Lernperiode 11
 
 ## Grobplanung
+In dieser Lernperiode möchte ich gerne Python und die Grundbausteine von C++ kennenlernen.  
+Ich habe in den Ferien mich mit Python sehr intensiv beschäftigt und daher denke ich, dass es sehr interessant und mir für meine zukünftige Projekte helfen kann.  
+C++ werde ich anschauen, weil es sehr oft in DLLs verwendet wird und das sind, wie ich es mir vorstelle, so wie Erweiterungen für eine .exe. Ich bin mir nicht sicher, was es genau ist und wegen dem probiere ich es ein bisschen zu verstehen.  
 
-In dieser Lernperiode möchte ich gerne Python und die Grundbausteine von C++ kennenlernen. 
-Ich habe in den Ferien mich mit Python sehr intensiv beschäftigt und daher denke ich, dass es sehr interessant und mir für meine zukünftige Projekte helfen kann.
-C++ werde ich anschauen, weil es sehr oft in DLLs verwendet wird und das sind, wie ich es mir vorstelle, so wie Erweiterungen für eine .exe. Ich bin mir nicht sicher, was es genau ist und wegen dem probiere ich es ein bisschen
-zu verstehen.
+---
 
 ## 15.08.2025
 ### Arbeitspakete
-- [ ] Python Script schreiben, das automatisch Temp-Ordner löscht (Temp, %temp%, Prefetch). Dabei auch Error-Handling einbauen, falls Dateien gesperrt sind.  
-- [ ] Erste Schritte mit C++: Hello-World und dann eine kleine .exe kompilieren. Anschliessend recherchieren, wie eine .dll funktioniert, und ein Minimalbeispiel ausprobieren.  
+- [ ] Python Script schreiben, das automatisch Temp-Ordner löscht (Temp, %temp%, Prefetch). Mit Error-Handling (`try/except`).  
+- [ ] Script erweitern: Ausgabe in ein Logfile schreiben, welche Dateien gelöscht wurden.  
+- [ ] Erste Schritte in C++: Hello-World programmieren und kompilieren.  
+- [ ] Recherchieren: Wie funktioniert eine DLL in C++ und wie bindet man sie ein?  
 
 ### Reflexion
-Ich habe ein Python Script gemacht, das wirklich alle Temp-Ordner löscht. Mit try/except konnte ich Fehler abfangen. In C++ habe ich Hello World kompiliert und herausgefunden, wie man eine dll macht. Es ist noch schwer zu verstehen, aber ich habe einen ersten Überblick.
+Ich habe ein Python Script gemacht, das wirklich alle Temp-Ordner löscht. Mit try/except konnte ich Fehler abfangen und zusätzlich Logs speichern. In C++ habe ich Hello World kompiliert und recherchiert, wie DLLs funktionieren. Es ist noch schwer zu verstehen, aber ich habe einen ersten Überblick.
 
 ---
 
 ## 22.08.2025
 ### Arbeitspakete
-- [ ] Python Mini-Projekt: ein Programm, das den User-Namen abfragt, ihn speichert und eine personalisierte Begrüssung in einer Textdatei schreibt. Bonus: Begrüssung farbig in der Konsole anzeigen (`colorama`).  
-- [ ] C++: Ein Rechner, der zwei Zahlen addiert, subtrahiert, multipliziert und dividiert. User gibt die Zahlen per `cin` ein.  
+- [ ] Python Mini-Projekt: User-Namen abfragen und eine personalisierte Begrüssung anzeigen.  
+- [ ] Begrüssung zusätzlich in eine Textdatei schreiben.  
+- [ ] `colorama` in Python testen, um Texte farbig auszugeben.  
+- [ ] C++: Ein Rechner mit Addition, Subtraktion, Multiplikation und Division (Inputs via `cin`).  
 
 ### Reflexion
-In Python konnte ich mit colorama Texte farbig ausgeben, das hat Spass gemacht. Ausserdem wird der Name in einer Textdatei gespeichert. In C++ habe ich einen einfachen Taschenrechner gemacht mit allen 4 Grundrechnungen. War nicht schwer, aber ich habe gelernt, wie man Inputs sauber prüft.
+In Python konnte ich mit colorama Texte farbig ausgeben, das hat Spass gemacht. Ausserdem wird der Name in einer Textdatei gespeichert. In C++ habe ich einen Taschenrechner mit allen 4 Grundrechnungen gebaut. Ich habe gelernt, wie man Inputs prüft, und gemerkt, dass man sehr genau arbeiten muss.
 
 ---
 
 ## 29.08.2025
 ### Arbeitspakete
-- [ ] Python Projekt: ein kleines Tool, das eine Liste von Zufallszahlen erstellt (`random`), sie sortiert und in einer Datei speichert. Danach das Maximum und Minimum berechnen.  
-- [ ] C++: Mit Schleifen arbeiten. Zuerst 1–100 ausgeben, dann eine Schleife machen, die alle Primzahlen zwischen 1–100 anzeigt.  
+- [ ] Python: Liste mit Zufallszahlen generieren (`random`).  
+- [ ] Liste sortieren und Minimum/Maximum berechnen.  
+- [ ] Resultate in einer Textdatei speichern.  
+- [ ] C++: Mit `for`- und `while`-Schleifen üben.  
+- [ ] Extra: Primzahlen zwischen 1–100 in C++ ausgeben lassen.  
 
 ### Reflexion
-In Python konnte ich schnell eine Liste mit random bauen, sortieren und min/max finden. Am spannendsten war, dass ich das Ganze in einer Datei gespeichert habe. In C++ habe ich Schleifen genutzt und sogar ein Primzahl-Programm gebaut. Das war schwierig, aber ich habe es geschafft mit verschachtelten Schleifen.
+In Python konnte ich schnell eine Liste bauen, sortieren und min/max berechnen. Spannend war das Speichern in einer Datei. In C++ habe ich Schleifen geübt und sogar ein Primzahl-Programm geschrieben. Das war schwieriger, aber ich habe verstanden, wie man verschachtelte Schleifen nutzt.
 
 ---
 
 ## 05.09.2025
 ### Arbeitspakete
-- [ ] Python Projekt: Mathe-Quiz, das zufällige Aufgaben generiert (Addition, Subtraktion, Multiplikation). User bekommt Punkte, falsche Antworten werden in einer extra Datei gespeichert.  
-- [ ] C++: Programm, das vom User 10 Zahlen einliest und dann prüft, wie viele davon gerade und wie viele ungerade sind.  
+- [ ] Python: Mathe-Quiz mit zufälligen Aufgaben (Addition, Subtraktion, Multiplikation).  
+- [ ] Punkte zählen und falsche Antworten in einer Datei speichern.  
+- [ ] Extra: Quiz läuft in einer Schleife mit 3 Fragen.  
+- [ ] C++: Vom User 10 Zahlen einlesen.  
+- [ ] Zählen, wie viele davon gerade und ungerade sind.  
 
 ### Reflexion
-Das Python-Quiz war cool, weil ich mit Zufallszahlen arbeiten konnte. Das Speichern der falschen Antworten in einer Datei war neu. In C++ habe ich eine Liste mit Zahlen eingelesen und gezählt, wie viele gerade oder ungerade sind. Es war etwas mehr Logik nötig, aber es lief gut.
+Das Python-Quiz war cool, weil ich mit Zufallszahlen arbeiten konnte. Das Speichern der falschen Antworten war eine gute Übung. In C++ habe ich 10 Zahlen eingelesen und gezählt, wie viele gerade/ungerade sind. Es war mehr Logik nötig, aber machbar.
 
 ---
 
 ## 12.09.2025
 ### Arbeitspakete
-- [ ] Python Projekt: Textdatei einlesen und die Wörter zählen. Danach die 5 häufigsten Wörter anzeigen (`collections.Counter`).  
-- [ ] C++: Arrays nutzen. Ein Array mit 10 Zahlen erstellen und die Summe, das Maximum und den Durchschnitt berechnen.  
+- [ ] Python: Textdatei einlesen und Wörter zählen.  
+- [ ] Top-5-Wörter mit `collections.Counter` anzeigen.  
+- [ ] Extra: Ergebnis in einer neuen Datei speichern.  
+- [ ] C++: Array mit 10 Zahlen erstellen.  
+- [ ] Summe, Maximum und Durchschnitt berechnen.  
 
 ### Reflexion
-In Python habe ich ein Programm gebaut, das Wörter zählt und die Top 5 ausgibt. Das war spannend, weil es fast wie ein kleines Analyse-Tool ist. In C++ habe ich mit Arrays gearbeitet. Ich konnte Summe, Max und Durchschnitt berechnen. War etwas mehr Mathe, aber machbar.
+In Python habe ich ein Tool gebaut, das Wörter zählt und die 5 häufigsten zeigt. Fast wie ein Analyse-Tool. In C++ habe ich Arrays genutzt und Summe, Maximum, Durchschnitt berechnet. War ein bisschen Mathe, aber gut machbar.
 
 ---
 
 ## 19.09.2025
 ### Arbeitspakete
-- [ ] Python Projekt: ein Tool mit `datetime`, das den aktuellen Wochentag und das Datum in Schweizer Format (TT.MM.JJJJ) anzeigt. Extra: das Programm speichert ein Logfile, wann es gestartet wurde.  
-- [ ] C++: Einen Mini-Taschenrechner mit Switch-Case bauen, wo der User auswählen kann zwischen Addition, Subtraktion, Multiplikation, Division.  
+- [ ] Python: Mit `datetime` den aktuellen Wochentag und das Datum anzeigen.  
+- [ ] Extra: Datum im Schweizer Format (TT.MM.JJJJ) ausgeben.  
+- [ ] Logfile schreiben, wann das Programm gestartet wurde.  
+- [ ] C++: Mini-Taschenrechner mit Switch-Case (Addition, Subtraktion, Multiplikation, Division).  
+- [ ] Erweiterung: Fehlerbehandlung einbauen, falls User durch 0 teilt.  
+
+### Reflexion
+In Python habe ich den Wochentag und das Datum ausgegeben. Zusätzlich habe ich Logs gespeichert, wann das Programm gestartet wurde. In C++ habe ich einen Taschenrechner mit Switch-Case programmiert. Mit Fehlerbehandlung bei Division durch 0 war es realistischer. Ich habe gemerkt, dass ich C++ immer besser verstehe.
