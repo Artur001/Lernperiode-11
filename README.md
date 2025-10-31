@@ -9,10 +9,10 @@ C++ werde ich anschauen, weil es sehr oft in DLLs verwendet wird und das sind, w
 
 ## 15.08.2025
 ### Arbeitspakete
-- [ ] Python Script schreiben, das automatisch Temp-Ordner löscht (Temp, %temp%, Prefetch). Mit Error-Handling (`try/except`).  
-- [ ] Script erweitern: Ausgabe in ein Logfile schreiben, welche Dateien gelöscht wurden.  
-- [ ] Erste Schritte in C++: Hello-World programmieren und kompilieren.  
-- [ ] Recherchieren: Wie funktioniert eine DLL in C++ und wie bindet man sie ein?  
+- [x] Python Script schreiben, das automatisch Temp-Ordner löscht (Temp, %temp%, Prefetch). Mit Error-Handling (`try/except`).  
+- [x] Script erweitern: Ausgabe in ein Logfile schreiben, welche Dateien gelöscht wurden.  
+- [x] Erste Schritte in C++: Hello-World programmieren und kompilieren.  
+- [x] Recherchieren: Wie funktioniert eine DLL in C++ und wie bindet man sie ein?  
 
 ### Reflexion
 Ich habe ein Python Script gemacht, das wirklich alle Temp-Ordner löscht. Mit try/except konnte ich Fehler abfangen und zusätzlich Logs speichern. In C++ habe ich Hello World kompiliert und recherchiert, wie DLLs funktionieren. Es ist noch schwer zu verstehen, aber ich habe einen ersten Überblick.
@@ -21,10 +21,10 @@ Ich habe ein Python Script gemacht, das wirklich alle Temp-Ordner löscht. Mit t
 
 ## 22.08.2025
 ### Arbeitspakete
-- [ ] Python Mini-Projekt: User-Namen abfragen und eine personalisierte Begrüssung anzeigen.  
-- [ ] Begrüssung zusätzlich in eine Textdatei schreiben.  
-- [ ] `colorama` in Python testen, um Texte farbig auszugeben.  
-- [ ] C++: Ein Rechner mit Addition, Subtraktion, Multiplikation und Division (Inputs via `cin`).  
+- [x] Python Mini-Projekt: User-Namen abfragen und eine personalisierte Begrüssung anzeigen.  
+- [x] Begrüssung zusätzlich in eine Textdatei schreiben.  
+- [x] `colorama` in Python testen, um Texte farbig auszugeben.  
+- [x] C++: Ein Rechner mit Addition, Subtraktion, Multiplikation und Division (Inputs via `cin`).  
 
 ### Reflexion
 In Python konnte ich mit colorama Texte farbig ausgeben, das hat Spass gemacht. Ausserdem wird der Name in einer Textdatei gespeichert. In C++ habe ich einen Taschenrechner mit allen 4 Grundrechnungen gebaut. Ich habe gelernt, wie man Inputs prüft, und gemerkt, dass man sehr genau arbeiten muss.
@@ -33,11 +33,11 @@ In Python konnte ich mit colorama Texte farbig ausgeben, das hat Spass gemacht. 
 
 ## 29.08.2025
 ### Arbeitspakete
-- [ ] Python: Liste mit Zufallszahlen generieren (`random`).  
-- [ ] Liste sortieren und Minimum/Maximum berechnen.  
-- [ ] Resultate in einer Textdatei speichern.  
-- [ ] C++: Mit `for`- und `while`-Schleifen üben.  
-- [ ] Extra: Primzahlen zwischen 1–100 in C++ ausgeben lassen.  
+- [x] Python: Liste mit Zufallszahlen generieren (`random`).  
+- [x] Liste sortieren und Minimum/Maximum berechnen.  
+- [x] Resultate in einer Textdatei speichern.  
+- [x] C++: Mit `for`- und `while`-Schleifen üben.  
+- [x] Extra: Primzahlen zwischen 1–100 in C++ ausgeben lassen.  
 
 ### Reflexion
 In Python konnte ich schnell eine Liste bauen, sortieren und min/max berechnen. Spannend war das Speichern in einer Datei. In C++ habe ich Schleifen geübt und sogar ein Primzahl-Programm geschrieben. Das war schwieriger, aber ich habe verstanden, wie man verschachtelte Schleifen nutzt.
@@ -46,11 +46,11 @@ In Python konnte ich schnell eine Liste bauen, sortieren und min/max berechnen. 
 
 ## 05.09.2025
 ### Arbeitspakete
-- [ ] Python: Mathe-Quiz mit zufälligen Aufgaben (Addition, Subtraktion, Multiplikation).  
-- [ ] Punkte zählen und falsche Antworten in einer Datei speichern.  
-- [ ] Extra: Quiz läuft in einer Schleife mit 3 Fragen.  
-- [ ] C++: Vom User 10 Zahlen einlesen.  
-- [ ] Zählen, wie viele davon gerade und ungerade sind.  
+- [x] Python: Mathe-Quiz mit zufälligen Aufgaben (Addition, Subtraktion, Multiplikation).  
+- [x] Punkte zählen und falsche Antworten in einer Datei speichern.  
+- [x] Extra: Quiz läuft in einer Schleife mit 3 Fragen.  
+- [x] C++: Vom User 10 Zahlen einlesen.  
+- [x] Zählen, wie viele davon gerade und ungerade sind.  
 
 ### Reflexion
 Das Python-Quiz war cool, weil ich mit Zufallszahlen arbeiten konnte. Das Speichern der falschen Antworten war eine gute Übung. In C++ habe ich 10 Zahlen eingelesen und gezählt, wie viele gerade/ungerade sind. Es war mehr Logik nötig, aber machbar.
@@ -59,11 +59,11 @@ Das Python-Quiz war cool, weil ich mit Zufallszahlen arbeiten konnte. Das Speich
 
 ## 12.09.2025
 ### Arbeitspakete
-- [ ] Python: Textdatei einlesen und Wörter zählen.  
-- [ ] Top-5-Wörter mit `collections.Counter` anzeigen.  
-- [ ] Extra: Ergebnis in einer neuen Datei speichern.  
-- [ ] C++: Array mit 10 Zahlen erstellen.  
-- [ ] Summe, Maximum und Durchschnitt berechnen.  
+- [x] Python: Textdatei einlesen und Wörter zählen.  
+- [x] Top-5-Wörter mit `collections.Counter` anzeigen.  
+- [x] Extra: Ergebnis in einer neuen Datei speichern.  
+- [x] C++: Array mit 10 Zahlen erstellen.  
+- [x] Summe, Maximum und Durchschnitt berechnen.  
 
 ### Reflexion
 In Python habe ich ein Tool gebaut, das Wörter zählt und die 5 häufigsten zeigt. Fast wie ein Analyse-Tool. In C++ habe ich Arrays genutzt und Summe, Maximum, Durchschnitt berechnet. War ein bisschen Mathe, aber gut machbar.
@@ -72,11 +72,11 @@ In Python habe ich ein Tool gebaut, das Wörter zählt und die 5 häufigsten zei
 
 ## 19.09.2025
 ### Arbeitspakete
-- [ ] Python: Mit `datetime` den aktuellen Wochentag und das Datum anzeigen.  
-- [ ] Extra: Datum im Schweizer Format (TT.MM.JJJJ) ausgeben.  
-- [ ] Logfile schreiben, wann das Programm gestartet wurde.  
-- [ ] C++: Mini-Taschenrechner mit Switch-Case (Addition, Subtraktion, Multiplikation, Division).  
-- [ ] Erweiterung: Fehlerbehandlung einbauen, falls User durch 0 teilt.  
+- [x] Python: Mit `datetime` den aktuellen Wochentag und das Datum anzeigen.  
+- [x] Extra: Datum im Schweizer Format (TT.MM.JJJJ) ausgeben.  
+- [x] Logfile schreiben, wann das Programm gestartet wurde.  
+- [x] C++: Mini-Taschenrechner mit Switch-Case (Addition, Subtraktion, Multiplikation, Division).  
+- [x] Erweiterung: Fehlerbehandlung einbauen, falls User durch 0 teilt.  
 
 ### Reflexion
 In Python habe ich den Wochentag und das Datum ausgegeben. Zusätzlich habe ich Logs gespeichert, wann das Programm gestartet wurde. In C++ habe ich einen Taschenrechner mit Switch-Case programmiert. Mit Fehlerbehandlung bei Division durch 0 war es realistischer. Ich habe gemerkt, dass ich C++ immer besser verstehe.
@@ -85,7 +85,21 @@ In Python habe ich den Wochentag und das Datum ausgegeben. Zusätzlich habe ich 
 
 ## 26.09.2025
 ### Arbeitspakete
-- [ ] Python Projekt: Ein einfaches Login-System programmieren, das Benutzername und Passwort aus einer Textdatei liest und überprüft.  
-- [ ] Erweiterung: Neues Konto registrieren können und automatisch in die Datei speichern.  
-- [ ] C++: Ein Programm schreiben, das eine kleine Textdatei erstellt und Benutzer-Eingaben darin abspeichert.  
-- [ ] Zusatz: In C++ prüfen, ob die Datei bereits existiert, und sonst eine neue anlegen.  
+- [x] Python Projekt: Ein einfaches Login-System programmieren, das Benutzername und Passwort aus einer Textdatei liest und überprüft.  
+- [x] Erweiterung: Neues Konto registrieren können und automatisch in die Datei speichern.  
+- [x] C++: Ein Programm schreiben, das eine kleine Textdatei erstellt und Benutzer-Eingaben darin abspeichert.  
+- [x] Zusatz: In C++ prüfen, ob die Datei bereits existiert, und sonst eine neue anlegen.  
+
+Heute habe ich ein Login-System in Python gemacht. Dabei habe ich gelernt, wie man Dateien öffnet, liest und neue Daten hinzufügt. Das war spannend, weil man merkt, wie man einfache Systeme mit wenig Code realisieren kann. In C++ habe ich geübt, mit Dateien zu arbeiten. Es war etwas schwieriger, weil man mehr schreiben muss, aber ich habe verstanden, wie man überprüft, ob eine Datei existiert oder neu erstellt werden soll. Insgesamt war es eine produktive Stunde, weil ich gemerkt habe, dass Python und C++ ähnliche Ideen haben, nur unterschiedlich umgesetzt.
+
+## 31.10.2025
+### Arbeitspakete
+- [ ] Python Projekt: Ein kleines Backup-Tool schreiben, das ausgewählte Dateien automatisch in einen anderen Ordner kopiert. Dabei `shutil` und `os` verwenden.  
+- [ ] Erweiterung: Datum und Uhrzeit im Dateinamen speichern, damit jede Sicherung einzigartig ist.  
+- [ ] C++: Ein Programm erstellen, das vom User eine Zahl einliest und prüft, ob sie eine Primzahl ist.  
+- [ ] Zusatz: Wenn keine Zahl eingegeben wird, soll das Programm eine Fehlermeldung ausgeben und erneut nachfragen.  
+
+### Reflexion
+Heute habe ich in Python ein Backup-Tool programmiert. Ich konnte mit `shutil` und `os` Dateien kopieren und das Datum automatisch im Dateinamen speichern. So erstellt das Programm bei jedem Lauf eine neue Sicherung. Das war sehr nützlich, weil es zeigt, wie man mit wenig Code praktische Automationen bauen kann.  
+In C++ habe ich ein Primzahl-Programm geschrieben, das prüft, ob eine eingegebene Zahl prim ist. Ich habe zusätzlich eine Fehlerabfrage eingebaut, falls der User nichts oder Falsches eingibt. Das war ein guter Test für Input-Validierung. Ich merke, dass ich in C++ immer sicherer werde, auch wenn es noch strenger ist als Python.
+
