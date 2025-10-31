@@ -80,3 +80,12 @@ In Python habe ich ein Tool gebaut, das Wörter zählt und die 5 häufigsten zei
 
 ### Reflexion
 In Python habe ich den Wochentag und das Datum ausgegeben. Zusätzlich habe ich Logs gespeichert, wann das Programm gestartet wurde. In C++ habe ich einen Taschenrechner mit Switch-Case programmiert. Mit Fehlerbehandlung bei Division durch 0 war es realistischer. Ich habe gemerkt, dass ich C++ immer besser verstehe.
+
+---
+
+## 26.09.2025
+### Arbeitspakete
+- [ ] Python Projekt: Ein einfaches Login-System programmieren, das Benutzername und Passwort aus einer Textdatei liest und überprüft.  
+- [ ] Erweiterung: Neues Konto registrieren können und automatisch in die Datei speichern.  
+- [ ] C++: Ein Programm schreiben, das eine kleine Textdatei erstellt und Benutzer-Eingaben darin abspeichert.  
+- [ ] Zusatz: In C++ prüfen, ob die Datei bereits existiert, und sonst eine neue anlegen.  
