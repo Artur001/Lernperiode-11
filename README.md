@@ -92,6 +92,8 @@ In Python habe ich den Wochentag und das Datum ausgegeben. Zusätzlich habe ich 
 
 Heute habe ich ein Login-System in Python gemacht. Dabei habe ich gelernt, wie man Dateien öffnet, liest und neue Daten hinzufügt. Das war spannend, weil man merkt, wie man einfache Systeme mit wenig Code realisieren kann. In C++ habe ich geübt, mit Dateien zu arbeiten. Es war etwas schwieriger, weil man mehr schreiben muss, aber ich habe verstanden, wie man überprüft, ob eine Datei existiert oder neu erstellt werden soll. Insgesamt war es eine produktive Stunde, weil ich gemerkt habe, dass Python und C++ ähnliche Ideen haben, nur unterschiedlich umgesetzt.
 
+---
+
 ## 31.10.2025
 ### Arbeitspakete
 - [ ] Python Projekt: Ein kleines Backup-Tool schreiben, das ausgewählte Dateien automatisch in einen anderen Ordner kopiert. Dabei `shutil` und `os` verwenden.  
@@ -102,4 +104,15 @@ Heute habe ich ein Login-System in Python gemacht. Dabei habe ich gelernt, wie m
 ### Reflexion
 Heute habe ich in Python ein Backup-Tool programmiert. Ich konnte mit `shutil` und `os` Dateien kopieren und das Datum automatisch im Dateinamen speichern. So erstellt das Programm bei jedem Lauf eine neue Sicherung. Das war sehr nützlich, weil es zeigt, wie man mit wenig Code praktische Automationen bauen kann.  
 In C++ habe ich ein Primzahl-Programm geschrieben, das prüft, ob eine eingegebene Zahl prim ist. Ich habe zusätzlich eine Fehlerabfrage eingebaut, falls der User nichts oder Falsches eingibt. Das war ein guter Test für Input-Validierung. Ich merke, dass ich in C++ immer sicherer werde, auch wenn es noch strenger ist als Python.
+
+---
+
+## 07.11.2025
+### Arbeitspakete
+- [ ] Python: kleines Skript schreiben, das Byte-Pattern in einer Datei sucht (einfacher Hex-Scan). Ziel: verstehen, wie man Dateien binär liest.  
+- [ ] Python: Ausgabe der Fundstellen in eine Logdatei schreiben (Offset + Bytes).  
+- [ ] C++: kurzer Blick auf Assembly-Ausgabe eines kleinen C++-Programms (`g++ -S` / Compiler-Explorer). Vergleichen, wie eine einfache Funktion in Assembler aussieht.  
+- [ ] Reverse Engineering: ein einfaches "crackme"-Tutorial durchgehen (nur Theorie & Analyse, nichts Illegales). Notizen machen, welche Werkzeuge wichtig sind (Disassembler, Hex-Editor).  
+- [ ] Lernen: CS50-Kurs begonnen — 1–2 Videos/Module schauen und die Aufgaben notieren, was ich als Nächstes üben muss.
+
 
