@@ -96,10 +96,10 @@ Heute habe ich ein Login-System in Python gemacht. Dabei habe ich gelernt, wie m
 
 ## 31.10.2025
 ### Arbeitspakete
-- [ ] Python Projekt: Ein kleines Backup-Tool schreiben, das ausgewählte Dateien automatisch in einen anderen Ordner kopiert. Dabei `shutil` und `os` verwenden.  
-- [ ] Erweiterung: Datum und Uhrzeit im Dateinamen speichern, damit jede Sicherung einzigartig ist.  
-- [ ] C++: Ein Programm erstellen, das vom User eine Zahl einliest und prüft, ob sie eine Primzahl ist.  
-- [ ] Zusatz: Wenn keine Zahl eingegeben wird, soll das Programm eine Fehlermeldung ausgeben und erneut nachfragen.  
+- [x] Python Projekt: Ein kleines Backup-Tool schreiben, das ausgewählte Dateien automatisch in einen anderen Ordner kopiert. Dabei `shutil` und `os` verwenden.  
+- [x] Erweiterung: Datum und Uhrzeit im Dateinamen speichern, damit jede Sicherung einzigartig ist.  
+- [x] C++: Ein Programm erstellen, das vom User eine Zahl einliest und prüft, ob sie eine Primzahl ist.  
+- [x] Zusatz: Wenn keine Zahl eingegeben wird, soll das Programm eine Fehlermeldung ausgeben und erneut nachfragen.  
 
 ### Reflexion
 Heute habe ich in Python ein Backup-Tool programmiert. Ich konnte mit `shutil` und `os` Dateien kopieren und das Datum automatisch im Dateinamen speichern. So erstellt das Programm bei jedem Lauf eine neue Sicherung. Das war sehr nützlich, weil es zeigt, wie man mit wenig Code praktische Automationen bauen kann.  
@@ -109,10 +109,21 @@ In C++ habe ich ein Primzahl-Programm geschrieben, das prüft, ob eine eingegebe
 
 ## 07.11.2025
 ### Arbeitspakete
-- [ ] Python: kleines Skript schreiben, das Byte-Pattern in einer Datei sucht (einfacher Hex-Scan). Ziel: verstehen, wie man Dateien binär liest.  
-- [ ] Python: Ausgabe der Fundstellen in eine Logdatei schreiben (Offset + Bytes).  
-- [ ] C++: kurzer Blick auf Assembly-Ausgabe eines kleinen C++-Programms (`g++ -S` / Compiler-Explorer). Vergleichen, wie eine einfache Funktion in Assembler aussieht.  
-- [ ] Reverse Engineering: ein einfaches "crackme"-Tutorial durchgehen (nur Theorie & Analyse, nichts Illegales). Notizen machen, welche Werkzeuge wichtig sind (Disassembler, Hex-Editor).  
-- [ ] Lernen: CS50-Kurs begonnen — 1–2 Videos/Module schauen und die Aufgaben notieren, was ich als Nächstes üben muss.
+- [x] Python: kleines Skript schreiben, das Byte-Pattern in einer Datei sucht (einfacher Hex-Scan). Ziel: verstehen, wie man Dateien binär liest.  
+- [x] Python: Ausgabe der Fundstellen in eine Logdatei schreiben (Offset + Bytes).  
+- [x] C++: kurzer Blick auf Assembly-Ausgabe eines kleinen C++-Programms (`g++ -S` / Compiler-Explorer). Vergleichen, wie eine einfache Funktion in Assembler aussieht.  
+- [x] Reverse Engineering: ein einfaches "crackme"-Tutorial durchgehen (nur Theorie & Analyse, nichts Illegales). Notizen machen, welche Werkzeuge wichtig sind (Disassembler, Hex-Editor).  
+- [x] Lernen: CS50-Kurs begonnen — 1–2 Videos/Module schauen und die Aufgaben notieren, was ich als Nächstes üben muss.
 
+### Reflexion
+Heute habe ich mit Reverse Engineering angefangen: erst Basics gelesen und ein kleines Crackme-Tutorial angeschaut (nur zum Lernen). In Python habe ich probiert, wie man Dateien binär liest und nach Byte-Patterns sucht — die Fundstellen schreibe ich in ein Log. In C++ habe ich die Assembly-Ausgabe einer kleinen Funktion angeschaut, um zu sehen, wie hoher Level-Code runtergebrochen wird. Neulich habe ich auch mit dem CS50-Zertifikat angefangen und das erste Modul geschaut. Ich merke, dass das Thema viel Geduld braucht, aber es passt gut zu meinem Plan, weil ich so besser verstehe, wie Programme intern funktionieren.
+
+---
+
+## 14.11.2025
+### Arbeitspakete
+- [ ] CS50-Zertifikat: An den nächsten Modulen weitergearbeitet, vor allem an den Themen Bedingungen, Schleifen und Funktionen.  
+- [ ] Erste eigene kleine Programme in C geschrieben (z. B. Zahlenerkennung und einfache Textverarbeitung).  
+- [ ] Mit Debugger in CS50 IDE gearbeitet, um Fehler besser zu verstehen.  
+- [ ] Python: kurze Wiederholung der letzten Projekte, kleine Anpassungen an meinem Backup-Skript getestet.  
 
