@@ -122,8 +122,19 @@ Heute habe ich mit Reverse Engineering angefangen: erst Basics gelesen und ein k
 
 ## 14.11.2025
 ### Arbeitspakete
-- [ ] CS50-Zertifikat: An den nächsten Modulen weitergearbeitet, vor allem an den Themen Bedingungen, Schleifen und Funktionen.  
-- [ ] Erste eigene kleine Programme in C geschrieben (z. B. Zahlenerkennung und einfache Textverarbeitung).  
-- [ ] Mit Debugger in CS50 IDE gearbeitet, um Fehler besser zu verstehen.  
-- [ ] Python: kurze Wiederholung der letzten Projekte, kleine Anpassungen an meinem Backup-Skript getestet.  
+- [x] CS50-Zertifikat: An den nächsten Modulen weitergearbeitet, vor allem an den Themen Bedingungen, Schleifen und Funktionen.  
+- [x] Erste eigene kleine Programme in C geschrieben (z. B. Zahlenerkennung und einfache Textverarbeitung).  
+- [x] Mit Debugger in CS50 IDE gearbeitet, um Fehler besser zu verstehen.  
+- [x] Python: kurze Wiederholung der letzten Projekte, kleine Anpassungen an meinem Backup-Skript getestet.  
 
+### Reflexion
+Heute habe ich hauptsächlich an meinem CS50-Zertifikat gearbeitet. Ich habe an den Kapiteln über Bedingungen, Schleifen und Funktionen weitergemacht und kleine C-Programme geschrieben. Durch das Debuggen habe ich viel gelernt, besonders wie man Fehler im Code gezielt findet. Es war ein ruhiger, aber produktiver Tag, weil ich mich voll auf das Lernen konzentriert habe. Das CS50-Material hilft mir, C und die Grundlagen der Informatik besser zu verstehen, was mir auch später bei C++ helfen wird.
+
+---
+
+## 21.11.2025
+### Arbeitspakete
+- [ ] CS50 Final Project: Konzept ausgearbeitet und Aufbau geplant.  
+- [ ] Grundstruktur des Projekts erstellt (Ordner, Dateien, README).  
+- [ ] Erste Programmteile umgesetzt – Datenverwaltung und einfache Logik getestet.  
+- [ ] Feedback zu Projektidee geprüft und überlegt, welche Features ich als Nächstes umsetzen will.  
