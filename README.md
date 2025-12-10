@@ -137,4 +137,31 @@ Heute habe ich hauptsächlich an meinem CS50-Zertifikat gearbeitet. Ich habe an 
 - [ ] CS50 Final Project: Konzept ausgearbeitet und Aufbau geplant.  
 - [ ] Grundstruktur des Projekts erstellt (Ordner, Dateien, README).  
 - [ ] Erste Programmteile umgesetzt – Datenverwaltung und einfache Logik getestet.  
-- [ ] Feedback zu Projektidee geprüft und überlegt, welche Features ich als Nächstes umsetzen will.  
+- [ ] Feedback zu Projektidee geprüft und überlegt, welche Features ich als Nächstes umsetzen will.
+
+### Reflexion
+Heute habe ich an meinem Final Project für das CS50-Zertifikat gearbeitet. Es ist das letzte und grösste Projekt des Kurses, wo man alles, was man gelernt hat, praktisch umsetzen kann. Ich habe mein Konzept gefestigt und mit dem Aufbau begonnen. Ich habe die Basisfunktionen programmiert und getestet, damit das Projekt stabil läuft, bevor ich mehr Features einbaue. Es macht Spass zu sehen, wie alles, was ich in den letzten Wochen gelernt habe – Python, C und logisches Denken – jetzt zusammenkommt.
+
+---
+
+## 28.11.2025
+### Arbeitspakete
+- [ ] Reverse Engineering: Mit IDA Free und Ghidra einfache Programme geöffnet, um zu verstehen, wie Funktionen und Strings im Speicher aussehen.  
+- [ ] Python: kleines Tool gebaut, das MD5-Hashes von Dateien berechnet, um Veränderungen zu erkennen.  
+- [ ] Notizen zu verschiedenen Datei-Formaten (EXE, DLL) gemacht und wie sie strukturiert sind.  
+- [ ] Recherchiert, wie Debugging in Assembler funktioniert (Breakpoints, Register ansehen).  
+
+### Reflexion
+Heute habe ich mich tiefer mit Reverse Engineering beschäftigt. Ich habe mit Ghidra und IDA Free gearbeitet und gesehen, wie ein normales Programm in Assembler aussieht. Es war am Anfang schwer zu lesen, aber mit der Zeit versteht man die Logik. Ich habe zusätzlich ein kleines Python-Tool geschrieben, das MD5-Hashes prüft, um Dateiänderungen zu erkennen. Das hat mir geholfen, den Zusammenhang zwischen Programmcode und Binärstruktur besser zu verstehen.
+
+---
+
+## 05.12.2025
+### Arbeitspakete
+- [ ] C++: Projekt gestartet, um eine kleine Datenbank mit Structs und Vektoren zu programmieren (z. B. Kundendaten speichern).  
+- [ ] Funktionen implementiert zum Hinzufügen, Anzeigen und Suchen von Datensätzen.  
+- [ ] Fehlerbehandlung und einfache Menüstruktur mit Switch-Case eingebaut.  
+- [ ] Kurze Wiederholung der Zeiger und Referenzen, um sie im Projekt richtig einzusetzen.  
+
+### Reflexion
+Heute habe ich an einem grösseren C++-Projekt gearbeitet. Ich habe eine kleine Datenbank mit Structs und Vektoren gemacht, um Kundendaten zu speichern und wieder auszulesen. Das war eine gute Übung, um die Arbeit mit Datenstrukturen zu verstehen. Ich habe auch gelernt, wie man mit Switch-Case ein Menü baut und Eingabefehler abfängt. Zeiger und Referenzen habe ich nochmals wiederholt, weil sie in C++ sehr wichtig sind. Insgesamt war das eine gute Vertiefung und ich sehe, dass ich in C++ viel sicherer werde.
